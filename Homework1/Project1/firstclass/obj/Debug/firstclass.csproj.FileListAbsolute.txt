@@ -1,0 +1,10 @@
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\bin\Debug\firstclass.exe.config
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\bin\Debug\firstclass.exe
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\bin\Debug\firstclass.pdb
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.csprojAssemblyReference.cache
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.Form1.resources
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.Properties.Resources.resources
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.csproj.GenerateResource.cache
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.csproj.CoreCompileInputs.cache
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.exe
+C:\Users\唐珺琪\source\repos\firstclass\firstclass\obj\Debug\firstclass.pdb
