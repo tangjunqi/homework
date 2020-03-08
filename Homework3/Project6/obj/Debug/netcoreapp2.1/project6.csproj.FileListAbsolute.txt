@@ -1,0 +1,11 @@
+C:\Users\唐珺琪\source\repos\project6\project6\obj\Debug\netcoreapp2.1\project6.csprojAssemblyReference.cache
+C:\Users\唐珺琪\source\repos\project6\project6\obj\Debug\netcoreapp2.1\project6.csproj.CoreCompileInputs.cache
+C:\Users\唐珺琪\source\repos\project6\project6\obj\Debug\netcoreapp2.1\project6.AssemblyInfoInputs.cache
+C:\Users\唐珺琪\source\repos\project6\project6\obj\Debug\netcoreapp2.1\project6.AssemblyInfo.cs
+C:\Users\唐珺琪\source\repos\project6\project6\bin\Debug\netcoreapp2.1\project6.deps.json
+C:\Users\唐珺琪\source\repos\project6\project6\bin\Debug\netcoreapp2.1\project6.runtimeconfig.json
+C:\Users\唐珺琪\source\repos\project6\project6\bin\Debug\netcoreapp2.1\project6.runtimeconfig.dev.json
+C:\Users\唐珺琪\source\repos\project6\project6\bin\Debug\netcoreapp2.1\project6.dll
+C:\Users\唐珺琪\source\repos\project6\project6\bin\Debug\netcoreapp2.1\project6.pdb
+C:\Users\唐珺琪\source\repos\project6\project6\obj\Debug\netcoreapp2.1\project6.dll
+C:\Users\唐珺琪\source\repos\project6\project6\obj\Debug\netcoreapp2.1\project6.pdb
